@@ -104,8 +104,8 @@ If you use or reference any part of this work, kindly credit this repository.
 ---
 
 ## 📫 Contact
-**Roshan Kumar Singh**  
-Email: roshankumar65167@gmail.com  
-LinkedIn: https://linkedin.com/in/roshan-kumar-singh-983a38289  
-GitHub: https://github.com/roshansingh893
+**Magraj Jakhar**  
+Email: jakharmagraj71@gmail.com
+LinkedIn: https://www.linkedin.com/in/magraj-jakhar-1a192b291/
+GitHub: https://github.com/Magraj71
 
